@@ -2,9 +2,21 @@
 Par Lucie Le Solliec
 */
 
-/* fonts Raleway via Google Fonts */
+/* Propriétés générales texte
+fonts Raleway via Google Fonts */
 
 body
 {
     font-family: 'Raleway', sans-serif;
+}
+
+h1,h2,h3,h4
+{
+    font-weight: bold;
+    color: black;
+}
+
+p
+{
+    color: black;
 }
