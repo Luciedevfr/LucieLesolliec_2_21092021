@@ -1,12 +1,10 @@
 /* style.css
-Par Lucie Le Solliec
-*/
+Par Lucie Le Solliec */
 
 /* Propriétés générales texte
 fonts Raleway via Google Fonts */
 body {
   font-family: 'Raleway', sans-serif;
-  background-color: #fff;
 }
 
 h1,
@@ -17,14 +15,15 @@ h4 {
   color: black;
 }
 
-p {
-  color: black;
-}
-
 /* Enlever texte souligné liens */
 a {
   color: inherit;
   text-decoration: none;
+}
+
+/* couleur paragraphes */
+p {
+  color: black;
 }
 
 /* Enlever puces des listes à puces*/
@@ -35,3 +34,4 @@ a {
 .footer-links-3 {
   list-style-type: none;
 }
+
